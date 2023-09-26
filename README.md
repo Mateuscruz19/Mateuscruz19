@@ -1,20 +1,27 @@
-<p align = center ><!-- Optional banner goes here--> </p>
+<div align="center" width="50">
+    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mateus Cruz</h1>
 
-<div>
+![GitHub followers](https://img.shields.io/github/followers/Mateuscruz19?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Mateuscruz19?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mateuscruz19.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="Mateuscruz19" />
 
-<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
-
-<h2> // About me 📄 </h2>
+## About Me :
 
 - 👨‍💻 Currently working as a Software Architect mid-level at CineCritic.
-- 🎓 I'm finishing a SpringBoot Bootcamp focused on asynchronous queues.
+- - 🎓 I'm finishing a SpringBoot Bootcamp focused on asynchronous queues.
+- 🏡'Lives in **Salvador - Brazil**
 - 📜 My resume:
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <h2>  // Contact 📲 </h2>
 
 <a href="mailto:profissionalmateuscruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 <a href="https://www.linkedin.com/in/mateuscruz19/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 <a href="https://wa.me/+55 75998741647"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
+
+<div>
+
+<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
 <h2>  // Tech Stack 💻  </h2>
 
@@ -46,14 +53,14 @@
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Mateus's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mateuscruz19&theme=react-dark&hide_border=true&area=true) |
 | ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Mateuscruz19&show_icons=true&theme=algolia)              | 
 | ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mateuscruz19&theme=algolia)                    | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      Mateus's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Mateuscruz19&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuscruz19&langs_count=8&theme=algolia&layout=compact) |
 
