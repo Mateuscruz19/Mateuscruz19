@@ -10,6 +10,12 @@
 - 📜 My resume:
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
+<!---
+
+--->
+
+---
+
 <div>
 
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
@@ -35,11 +41,6 @@
   <h3> Cloud: </h3>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<!---
-
---->
-
----
 
 ## GitHub Stats
 
