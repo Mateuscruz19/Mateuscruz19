@@ -7,7 +7,6 @@
 <h2> // About me 📄 </h2>
 
 - 👨‍💻 Currently working as a Software Architect mid-level at CineCritic.
-- 🤓 #OpenToWork
 - 🎓 I'm finishing a SpringBoot Bootcamp focused on asynchronous queues.
 - 📜 My resume:
 
