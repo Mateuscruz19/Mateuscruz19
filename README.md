@@ -42,26 +42,25 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 
+
 <!---
 
 --->
 
 ---
-
 ## GitHub Stats
 
 
 |                                                                     Mateus's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mateuscruz19&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Mateuscruz19&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mateuscruz19&theme=algolia)                    | 
+| ![Mateus's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mateuscruz19&theme=react-dark&hide_border=true&area=true) |
+| ![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=Mateuscruz19&show_icons=true&theme=algolia)              | 
+| ![Mateus's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mateuscruz19&theme=algolia)                    | 
     
 
 |                                                                                                      Mateus's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Mateuscruz19&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuscruz19&langs_count=8&theme=algolia&layout=compact) |
-
 
 
 
@@ -71,9 +70,9 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about web or Android development, feel free to <a href="profissionalmateuscruz@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me on <a href="https://www.linkedin.com/in/Mateuscruz19/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
