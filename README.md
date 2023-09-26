@@ -10,15 +10,6 @@
 - 📜 My resume:
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
-
-## About Me :
-
-- 👨‍💻 Currently working as a Software Architect mid-level at CineCritic.
-- 🎓 I'm finishing a SpringBoot Bootcamp focused on asynchronous queues.
-- 🏡'Lives in **Salvador - Brazil**
-- 📜 My resume:
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
 ## Contact :
 
 <a href="mailto:profissionalmateuscruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
