@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="500" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
+<img align="right" width="450" height="1200" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
 <h2> // About me 📄 </h2>
 
