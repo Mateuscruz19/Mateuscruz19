@@ -10,6 +10,12 @@
 - 🤓 Seeking to become a **full-stack developer**
 - 🎓 I'm also pursuing a bachelors degree in **software engineering**
 
+<h2>  // Contact  </h2>
+
+<a href="mailto:profissionalmateuscruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
+<a href="https://www.linkedin.com/in/mateuscruz19/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+<a href="https://wa.me/+55 75998741647"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
+
 <h2>  // Skills  </h2>
   
 - <h3> programming & markup languages </h3>
@@ -46,7 +52,7 @@
 
 ---
 
-[username](https://github.com/henrymedeiros)
+[Mateuscruz19](https://github.com/Mateuscruz19)
 Last Edited on: 05/05/2023 format.
 
 
@@ -59,23 +65,6 @@ Last Edited on: 05/05/2023 format.
 </div>
 
 
-# 💫 Sobre mim:
-
-Desenvolvedor Full-Stack a 3 anos, com foco no desenvolvimento de aplicativos desde 2020, utilizando Java e Kotlin. Além disso, tenho experiência em desenvolvimento multiplataforma com Javascript. Ingressei no campo da programação em 2020, começando com Javascript, e a partir de 2021, concentrei-me no desenvolvimento para Web e Android.
-Tenho uma paixão genuína por criar aplicativos e sites, além de auxiliar outros desenvolvedores no que estiver ao meu alcance. Estou constantemente em busca de novas oportunidades de aprendizado para me manter atualizado. Como entusiasta das diversas culturas estrangeiras, mantenho um profundo interesse nas nuances que diferenciam países e regiões ao redor do mundo.
-Recentemente, concluí o Bootcamp Full-Stack da Driven Education, um programa intensivo de 9 meses que abrange tanto habilidades técnicas quanto interpessoais, direcionado a estudantes de tecnologia. No momento, estou focado em aprimorar minhas habilidades em Java, buscando sempre alcançar um alto nível de excelência em minha trajetória profissional.
-
-**Atualmente:** Desenvolvedor Pleno na CineCritic.
-
-**Estudando:** Atualmente estudando Flutter e React-Native.
-
-
-
-# 📧 Contato:
-
-<a href="mailto:profissionalmateuscruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
-<a href="https://www.linkedin.com/in/mateuscruz19/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
-<a href="https://wa.me/+55 75998741647"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
 
 # 💻 Tech Stack:
 
