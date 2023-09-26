@@ -10,14 +10,15 @@
 - 📜 My resume:
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
-## Contact :
+<div>
+
+<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
+
+<h2>  // Contact 📜  </h2>
 
 <a href="mailto:profissionalmateuscruz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 <a href="https://www.linkedin.com/in/mateuscruz19/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 <a href="https://wa.me/+55 75998741647"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
-<div>
-
-<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
 <h2>  // Tech Stack 💻  </h2>
 
