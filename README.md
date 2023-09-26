@@ -8,7 +8,7 @@
 - 🎓 I'm finishing a SpringBoot Bootcamp focused on asynchronous queues.
 - 🏡'Lives in **Salvador - Brazil**
 - 📜 My resume:
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- ⚡ **Fun Facts**: I'm 21 years old, have a degree in veterinary medicine, and have 3 official applications published on Google Play.
 
 <!---
 
