@@ -8,7 +8,7 @@
 - 🎓 I'm finishing a SpringBoot Bootcamp focused on asynchronous queues.
 - 🏡'Lives in **SSA/BA -> CWB/PR**
 - 📜 Starting my 3th year in development.
-// - ⚡ **Fun Facts**: I'm 21 years old, have a degree in veterinary medicine, and have 3 official applications published on Google Play.
+<!---- ⚡ **Fun Facts**: I'm 21 years old, have a degree in veterinary medicine, and have 3 official applications published on Google Play. --->
 
 <!---
 
