@@ -4,7 +4,7 @@
 
 ## About Me :
 
-- 👨‍💻 Currently working as a Software Architect mid-level at CineCritic.
+- 👨‍💻 Currently OpenToWork as a Software Architect.
 - 🎓 I'm finishing a SpringBoot Bootcamp focused on asynchronous queues.
 - 🏡'Lives in **SSA/BA -> CWB/PR**
 - 📜 Starting my 3th year in development.
