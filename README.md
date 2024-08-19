@@ -47,22 +47,6 @@
 
 --->
 
----
-## GitHub Stats
-
-
-|                                                                     Mateus's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Mateus's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Mateuscruz19&theme=react-dark&hide_border=true&area=true) |
-| ![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=Mateuscruz19&show_icons=true&theme=algolia)              | 
-| ![Mateus's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mateuscruz19&theme=algolia)                    | 
-    
-
-|                                                                                                      Mateus's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Mateuscruz19&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuscruz19&langs_count=8&theme=algolia&layout=compact) |
-
-
 
 <table style="border: none">
   <tr>
