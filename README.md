@@ -4,10 +4,10 @@
 
 ## About Me :
 
-- 👨‍💻 Currently OpenToWork as a Software Architect.
-- 🎓 I'm finishing a SpringBoot Bootcamp focused on asynchronous queues.
-- 🏡'Lives in **SSA/BA -> CWB/PR**
-- 📜 Starting my 3th year in development.
+- 👨‍💻 QA Analyst at SAGEMCOM.
+- 🎓 Bachelor's Degree in Information Systems.
+- 🏡'Lives in Brazil: **SSA/BA -> CWB/PR**
+- 📜 Starting my 4th year in development.
 <!---- ⚡ **Fun Facts**: I'm 21 years old, have a degree in veterinary medicine, and have 3 official applications published on Google Play. --->
 
 <!---
