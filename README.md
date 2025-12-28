@@ -7,7 +7,7 @@
 - 👨‍💻 QA Analyst at SAGEMCOM.
 - 🎓 Bachelor's Degree in Information Systems.
 - 🏡'Lives in Brazil: **SSA/BA -> CWB/PR**
-- 📜 Starting my 4th year in development.
+- 📜 Starting my 6th year in development.
 <!---- ⚡ **Fun Facts**: I'm 21 years old, have a degree in veterinary medicine, and have 3 official applications published on Google Play. --->
 
 <!---
