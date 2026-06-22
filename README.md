@@ -12,7 +12,7 @@
 
 I build test automation frameworks and write way more code than most QA engineers probably should. At Sagemcom, I've built **100+ automated tests** with Selenium/Python for gateway validation — not just running tests, but developing the entire framework behind them.
 
-Currently deep-diving into **C and C++** to move into systems development. My open-source BitTorrent client [BAT-Torrent](https://github.com/Mateuscruz19/BAT-Torrent) has 40+ stars and is built from scratch with C++ and Qt 6.
+Currently deep-diving into **C and C++** to move into systems development. My open-source BitTorrent client [BAT-Torrent](https://github.com/Mateuscruz19/BAT-Torrent) has 3k users and is built from scratch with C++ and Qt 6.
 
 ---
 
